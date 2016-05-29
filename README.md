@@ -18,8 +18,8 @@ Youtube App also has a 360° video channel.
 ![screenshot](https://github.com/hanton/HTY360Player/blob/master/Screenshot/360Youtube.png)
 
 ## Todo
-1. Metal version.
-2. Play online 360° video by URL.
+- Metal version.
+- ~~Play online 360° video by URL.~~
 
 ## Author
 Hanton Yang, hanton.yang@gmail.com
